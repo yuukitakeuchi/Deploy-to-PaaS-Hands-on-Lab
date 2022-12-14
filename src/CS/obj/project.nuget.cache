@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m1ouwNFbUAEigT5yQO+VA6wYwyMN8CZMcaXGJcU3R0ybQ0rNKKgwLTGsbqbUI3t6RqyNw6meXNaMzmWTMB8pwA==",
+  "dgSpecHash": "7nxO9owTkXogTr3q6LIX7bXJDO8dJPPwY1j2chf+ufSCq7X4goAchAFF17IyLFD8RKnbst1piBczcLAEZ/Lwog==",
   "success": true,
-  "projectFilePath": "/Users/koheisaito/Library/CloudStorage/OneDrive-Microsoft/Documents/my/demos/CloudWorkshop/Deploy-to-PaaS-Hands-on-Lab/src/CS/Web.csproj",
+  "projectFilePath": "C:\\Users\\AzureUser\\Documents\\Deploy-to-PaaS-Hands-on-Lab\\src\\CS\\Web.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
